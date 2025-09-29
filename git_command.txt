@@ -1,0 +1,18 @@
+#insert
+git add sample.html
+git commit -m "Nagdagdag ako ng bagong file"
+git push origin main
+
+
+#delete
+git add -u
+git commit -m "Nagdagdag ako ng bagong file"
+git pull origin main
+git push origin main
+
+
+
+#update
+git add lumangfile.txt
+git commit -m "Inedit ko yung file"
+git push origin main
